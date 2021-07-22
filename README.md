@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm just a guy on the internet.</h1>
+<h1 align="center">👋 Sup, I'm just a guy on the internet.</h1>
 <h3 align="center">I like to do simple web development and python. I'm not a very advanced or skilled coder, it's just a hobby.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
